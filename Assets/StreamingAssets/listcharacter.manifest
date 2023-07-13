@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 3946336184
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 417ddc1422eaad5dba522e03c8d943ce
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b868fb3277072b9eeb055f66d93091a7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8d298593642d6429186ad3ec506488f3, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: CharacterModel
+Assets:
+- Assets/CustomEA/ListCharacter.prefab
+Dependencies: []

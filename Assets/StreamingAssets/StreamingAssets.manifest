@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 3507790031
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: environment
+      Dependencies: {}
+    Info_1:
+      Name: listcharacter
+      Dependencies: {}
